@@ -5,7 +5,7 @@ O aplicativo **Agende-se** utiliza uma arquitetura de dados relacional normaliza
 ## 1. Diagrama Entidade-Relacionamento
 Abaixo está representado o modelo conceitual e lógico das entidades do sistema:
 
-![Diagrama ER](./imagens/modeloER_bancoDeDados.png)
+![Diagrama ER](/modeloER_bancoDeDados.png)
 
 ## 2. Dicionário de Dados
 
